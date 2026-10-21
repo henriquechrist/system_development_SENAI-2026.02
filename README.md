@@ -1,4 +1,4 @@
-# python_senac2026.1
-PT-BR: Repositório do curso de programação em python da turma 2026.01 Senac Petrópolis.
+## System development course, SENAI 2026
+PT-BR: Repositório do curso de Desenvolvimento de Sistemas da turma 2026.02 SENAI Petrópolis.
 
-EN: Repository for the Python programming course, Senac Petrópolis class 2026.01
+EN: Repository for the Systems Development course of the 2026.02 class at SENAI Petrópolis.
