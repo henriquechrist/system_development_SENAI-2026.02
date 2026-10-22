@@ -1,0 +1,23 @@
+PORTUGOL:
+
+escreva = saída de dados (print)
+leia = entrada de dados (input)
+\n= pula linha
+// = para comentários
+
+VARIAVEIS PORTUGOL:
+
+inteiro = números inteiros (int)
+real = números decimais (float)
+logico = verdadeiro ou falso
+cadeia = cadeia de caracteres (str)
+caracter = armazena 1 caracter
+const = variável que n pode ser mudada
+
+OPERAÇÕES:
+
++ = soma
+- = subtração
+/ = divisão
+* = multiplicação
+% = porcentil
