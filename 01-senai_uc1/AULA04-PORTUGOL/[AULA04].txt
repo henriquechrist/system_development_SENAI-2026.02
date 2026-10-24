@@ -4,6 +4,10 @@ escreva = saída de dados (print)
 leia = entrada de dados (input)
 \n= pula linha
 // = para comentários
+escolha = funciona como um armazenamento de casos
+caso = questionamento de compatibilidade (if)
+pare= para a consulta
+se = funciona com um (if)
 
 VARIAVEIS PORTUGOL:
 
