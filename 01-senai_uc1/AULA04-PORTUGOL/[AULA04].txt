@@ -27,6 +27,7 @@ OPERAÇÕES:
 >= = maior ou igual
 <= = menor ou igual
 
+
 CONDIÇÕES
 
 se = atribuir valor verdadeiro
