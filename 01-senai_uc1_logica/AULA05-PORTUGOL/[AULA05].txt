@@ -10,7 +10,9 @@ pare= para a consulta
 se = funciona com um (if)
 enquanto = laço de repetição
 inclua = importar bibliotecas externas
-limpa = limpa tela após cada execução.
+limpa = limpa tela após cada execução
+para = laço de repetição, condição de entrada e saída
+faca = ferramenta para ajudar o enquanto quando não há valor atribuída estrutura faca enquanto
 
 VARIAVEIS PORTUGOL:
 
