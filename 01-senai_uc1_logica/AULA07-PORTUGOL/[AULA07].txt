@@ -1,0 +1,52 @@
+PORTUGOL:
+
+escreva = saída de dados (print)
+leia = entrada de dados (input)
+\n= pula linha
+// = para comentários
+escolha = funciona como um armazenamento de casos
+caso = questionamento de compatibilidade (if)
+pare= para a consulta
+se = funciona com um (if)
+enquanto = laço de repetição
+inclua = importar bibliotecas externas
+limpa = limpa tela após cada execução
+para = laço de repetição, condição de entrada e saída
+faca = ferramenta para ajudar o enquanto quando não há valor atribuída estrutura faca enquanto
+
+VARIAVEIS PORTUGOL:
+
+inteiro = números inteiros (int)
+real = números decimais (float)
+logico = verdadeiro ou falso
+cadeia = cadeia de caracteres (str)
+caracter = armazena 1 caracter
+const = variável que n pode ser mudada
+
+OPERAÇÕES:
+
++ = soma
+- = subtração
+/ = divisão
+* = multiplicação
+% = porcentil
+= = atribuir valor
+== = equivalência
+!= = diferente
+>= = maior ou igual
+<= = menor ou igual
+
+
+CONDIÇÕES
+
+se = atribuir valor verdadeiro
+senão = atribuir valor falso
+
+FORMULAS
+
+media 2 fatores = md=((n1+n2)/2)
+
+
+BIBILIOTECA UTIL
+
+util.aguarde = timer para cada interação
