@@ -13,6 +13,7 @@ inclua = importar bibliotecas externas
 limpa = limpa tela após cada execução
 para = laço de repetição, condição de entrada e saída
 faca = ferramenta para ajudar o enquanto quando não há valor atribuída estrutura faca enquanto
+retorne = devolver o valor ao local
 
 VARIAVEIS PORTUGOL:
 
@@ -50,3 +51,9 @@ media 2 fatores = md=((n1+n2)/2)
 BIBILIOTECA UTIL
 
 util.aguarde = timer para cada interação
+util.sorteia = sorteia um número
+
+
+OBSERVAÇÕES
+
+Portugol sempre começa com função inicio
