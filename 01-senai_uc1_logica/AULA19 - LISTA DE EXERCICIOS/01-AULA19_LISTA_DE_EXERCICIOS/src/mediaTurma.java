@@ -1,3 +1,5 @@
+// 2 - Média da turma
+
 import java.util.Scanner;
 
 public class mediaTurma {

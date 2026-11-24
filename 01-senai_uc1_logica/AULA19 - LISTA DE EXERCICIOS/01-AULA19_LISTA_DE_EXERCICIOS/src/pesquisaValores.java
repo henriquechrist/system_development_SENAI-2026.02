@@ -1,7 +1,9 @@
+// 1 - Pesquisar valores em um vetor
+
 import java.util.Scanner;
 
 
-public class pesquisaVetores {
+public class pesquisaValores {
     public static void main(String[] args) throws Exception {
     
     Scanner sc = new Scanner(System.in);
