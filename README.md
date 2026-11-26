@@ -50,3 +50,9 @@ Content will be updated throughout the course, including study materials, progra
 **Curso / Program:** Técnico em Desenvolvimento de Sistemas / Systems Development  
 **Turma / Class:** 2026.02  
 **Status:** Em andamento / In Progress
+
+## Technologies
+
+- Java
+- Visual Studio Code
+- Object-Oriented Programming
