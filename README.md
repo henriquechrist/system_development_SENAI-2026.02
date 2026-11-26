@@ -56,3 +56,10 @@ Content will be updated throughout the course, including study materials, progra
 - Java
 - Visual Studio Code
 - Object-Oriented Programming
+
+## Learning Objectives
+
+- Programming logic
+- Java fundamentals
+- Object-oriented programming
+- Software development best practices
